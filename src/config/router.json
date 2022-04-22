@@ -1,0 +1,15 @@
+{
+  "router": [
+    {
+      "path": "index",
+      "title": "主页",
+      "alias": false,
+      "meta": {
+        "name": "主页",
+        "group": "主页",
+        "isMenu": true,
+        "checkRight": true
+      }
+    }
+  ]
+}
